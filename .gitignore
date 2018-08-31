@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# google secret
+client_secret.json
+credentials.pickle
+*.pickle
